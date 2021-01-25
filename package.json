@@ -1,0 +1,16 @@
+{
+  "name": "webapi-hw",
+  "version": "1.0.0",
+  "description": "Web API CW - Module",
+  "main": "app.js",
+  "dependencies": {
+    "lower-case": "^2.0.1",
+    "upper-case": "^2.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Dilan Jayasinghe",
+  "license": "ISC"
+}
